@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Text_Keyboard_Types.MainPage" >
+    
+    <!--Keyboard Types Page-->
+    <ContentPage Title="Keyboard Types" BackgroundColor="#ffe6e6">
+        <StackLayout BackgroundColor="#e6f2ff" HorizontalOptions="Center" 
+                     VerticalOptions="Center" Padding="20">
+            <Label Text="Registration Form" FontSize="Medium"/>
+            <Entry  Placeholder="User Name"/>
+            <Entry Placeholder="Password" IsPassword="True"/>
+             <!--Number Keyboard Type-->
+            <Entry Placeholder="Age" Keyboard="Numeric"/>
+            <!--Telephine Keyboard Type-->
+            <Entry Placeholder="Mobile Number" Keyboard="Telephone"/>
+            <!--Email Keyboard Type-->
+            <Entry Placeholder="Email" Keyboard="Email"/>
+            <!--URL Keyboard Type-->
+            <Entry Placeholder="URL" Keyboard="Url"/>
+            <!--Plain Keyboard Type-->
+            <Editor Placeholder="Editor Text" Keyboard="Plain" HeightRequest="100"/>
+            <Button  Text="Sign Up"/>
+        </StackLayout>
+    </ContentPage>
+    
+    <!--Text Formatting-->
+    <ContentPage Title="Text Formatting" BackgroundColor="#ffffb3">
+        <StackLayout BackgroundColor="#e6f2ff" HorizontalOptions="Center" 
+                     VerticalOptions="Center" Padding="20">
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Lowercase" TextTransform="Lowercase" />
+                        <Span Text="Uppercase" TextTransform="Uppercase" />
+                        <Span Text="Bold" FontAttributes="Bold" />
+                        <Span Text="Italic" FontAttributes="Italic" />
+                        <Span Text="Font Family" FontFamily="courier" />
+                        <Span Text="Font Size" FontSize="Large" />
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </StackLayout>
+    </ContentPage>
+        
+</TabbedPage>

@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\bin\Debug\netstandard2.0\Text_Keyboard_Types.deps.json
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\bin\Debug\netstandard2.0\Text_Keyboard_Types.dll
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\bin\Debug\netstandard2.0\ref\Text_Keyboard_Types.dll
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\bin\Debug\netstandard2.0\Text_Keyboard_Types.pdb
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\Text_Keyboard_Types.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\Text_Keyboard_Types.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\Text_Keyboard_Types.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\Text_Keyboard_Types.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\Text_Keyboard_Types.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\Text_Keyboard_Types.dll
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\ref\Text_Keyboard_Types.dll
+E:\Study\Code\Xamarin\Text_Keyboard_Types\Text_Keyboard_Types\obj\Debug\netstandard2.0\Text_Keyboard_Types.pdb
